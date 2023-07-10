@@ -1,0 +1,30 @@
+.enterprise{
+    display: flex;
+    margin-top: 0;
+    margin-left: 15%;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background-image: url('Untitled\ design.png');
+    background-size: cover;
+    position: absolute;
+  }
+  .social{
+    margin-left: 85%;
+  }
+.imagem {
+    margin-top: 0%;
+    width: 150px;
+    height: 100px;
+}
+.top-text{
+    margin-right: 75%;
+    margin-top: 0%;
+}
+.real-image{
+    margin-left: 0%;
+    margin-right: 10%;
+    width: 450px;
+    height: 450px;
+}
